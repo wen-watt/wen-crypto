@@ -48,9 +48,11 @@ code{font:.9em/1.4 ui-monospace,Menlo,monospace;background:var(--deep);padding:.
 .stage{position:absolute;right:clamp(-40px,6vw,120px);top:clamp(40px,10vw,110px);width:clamp(200px,30vw,360px);aspect-ratio:1}
 .moon{position:absolute;inset:0;border-radius:50%;
   background:radial-gradient(circle at 38% 35%, #ffe2a6 0%, var(--amber) 55%, #b9792a 100%);box-shadow:0 0 80px 20px rgba(224,164,68,.28),0 0 220px 60px rgba(224,164,68,.12)}
-.ridge{position:absolute;left:-30%;right:-60%;bottom:24%;height:6px;background:#05060b;border-radius:3px;transform:rotate(-4deg)}
-.cat{position:absolute;bottom:calc(24% + 6px);left:40%;width:24%;fill:#05060b;stroke:#05060b;opacity:0;transform:translateY(40%) rotate(-4deg);animation:rise .9s cubic-bezier(.2,1.5,.4,1) 1.4s forwards}
-.cat .tail{transform-origin:74px 110px;animation:sway 3.5s ease-in-out 2.4s infinite}
+.branch{position:absolute;left:-40%;width:180%;bottom:18%;height:16%;fill:#05060b;stroke:#05060b;overflow:visible}
+.dancer{position:absolute;left:50%;bottom:25.5%;height:46%;width:auto;aspect-ratio:120/134;transform:translateX(-50%);overflow:visible}
+.dancer line{stroke:#05060b;stroke-width:7;stroke-linecap:round}
+.dancer ellipse,.dancer circle,.dancer path{fill:#05060b;stroke:#05060b}
+.dancer #d-tail path{fill:none}
 .hero-copy{position:relative;max-width:46rem;z-index:1}
 @media (max-width:700px){.stage{width:130px;top:20px;right:14px}.hero{padding-top:150px}}
 .kicker{margin:0 0 1rem;color:var(--sakura);font-weight:700;letter-spacing:.02em}
@@ -69,8 +71,6 @@ code{font:.9em/1.4 ui-monospace,Menlo,monospace;background:var(--deep);padding:.
 .wp-block-buttons{display:flex;flex-wrap:wrap;gap:.8rem;margin:1.5rem 0}
 @keyframes spin{to{transform:rotate(360deg)}}
 @keyframes stamp{to{opacity:1;transform:none}}
-@keyframes rise{to{opacity:1;transform:rotate(-4deg)}}
-@keyframes sway{0%,100%{transform:rotate(0)}50%{transform:rotate(-10deg)}}
 
 /* doors: manga panels with varied weight */
 .doors{padding:clamp(48px,7vw,88px) var(--gut);max-width:1180px;margin:0 auto}
@@ -147,7 +147,6 @@ blockquote{margin:2rem 0;padding-left:1.2rem;border-left:4px solid var(--sakura)
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important}
   .hero h1 span{opacity:1;transform:none}
-  .cat{transform:rotate(-4deg);opacity:1}
   html{scroll-behavior:auto}
 }
 
