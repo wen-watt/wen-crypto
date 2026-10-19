@@ -123,6 +123,45 @@
     draw(T[0][0]); setTimeout(kick, 1400);
   })();
 
+  // Jupiter prototype: storms ride the bands (alternating winds), rings breathe a little in 3D
+  (function () {
+    var storms = document.getElementById('storms');
+    if (!storms) return;
+    var NS = 'http://www.w3.org/2000/svg', cx = 200, cy = 200, R = 170;
+    var F = [  // y, start longitude, speed (rad/s), rx, ry, colour, opacity
+      [258, 0.6, 0.10, 30, 14, '#c25a32', .95], [258, 0.6, 0.10, 21, 9, '#e08a55', .9],
+      [300, 2.2, 0.16, 9, 4.5, '#f7ecd2', .9], [300, 3.4, 0.16, 8, 4, '#f7ecd2', .85], [300, 4.6, 0.16, 9, 4.5, '#f7ecd2', .85],
+      [140, 1.0, -0.13, 14, 4, '#8f5a30', .8], [140, 3.9, -0.13, 11, 3.5, '#8f5a30', .75],
+      [202, 0.3, 0.22, 10, 2.5, '#9b6436', .7], [202, 1.6, 0.22, 12, 2.5, '#9b6436', .7], [202, 2.9, 0.22, 9, 2, '#9b6436', .7],
+      [202, 4.2, 0.22, 12, 2.5, '#9b6436', .7], [202, 5.5, 0.22, 10, 2.5, '#9b6436', .7],
+      [96, 2.0, 0.08, 16, 3, '#f8e9c8', .6], [96, 5.0, 0.08, 13, 3, '#f8e9c8', .6], [330, 1.2, -0.06, 18, 3.5, '#cfa46b', .6]
+    ];
+    var E = F.map(function (f) { var e = document.createElementNS(NS, 'ellipse'); e.setAttribute('fill', f[5]); storms.appendChild(e); return e; });
+    var rb = document.getElementById('ring-b'), rf = document.getElementById('ring-f');
+    function ring(k) {
+      function el(rx, ry) { return 'M' + (cx - rx) + ' ' + cy + 'a' + rx + ' ' + ry + ' 0 1 0 ' + 2 * rx + ' 0a' + rx + ' ' + ry + ' 0 1 0 ' + (-2 * rx) + ' 0Z'; }
+      var d = el(300, 300 * k) + el(262, 262 * k) + el(250, 250 * k) + el(212, 212 * k);
+      rb.setAttribute('d', d); rf.setAttribute('d', d);
+    }
+    function frame(t) {
+      for (var i = 0; i < F.length; i++) {
+        var f = F[i], lon = f[1] + f[2] * t, z = Math.cos(lon), rl = Math.sqrt(Math.max(0, R * R - (f[0] - cy) * (f[0] - cy)));
+        if (z <= 0.02) { E[i].setAttribute('opacity', 0); continue; }
+        E[i].setAttribute('cx', (cx + rl * Math.sin(lon)).toFixed(1)); E[i].setAttribute('cy', f[0]);
+        E[i].setAttribute('rx', Math.max(0.5, f[3] * z).toFixed(2)); E[i].setAttribute('ry', f[4]);
+        E[i].setAttribute('opacity', (f[6] * Math.min(1, z * 3)).toFixed(2));
+      }
+      ring(0.2 + 0.035 * Math.sin(t * 0.35));
+    }
+    frame(0);
+    if (reduce) return;
+    var t0 = null, on = true;
+    if ('IntersectionObserver' in window) new IntersectionObserver(function (es) { var was = on; on = es[0].isIntersecting; if (on && !was) requestAnimationFrame(loop); }).observe(storms.ownerSVGElement);
+    function loop(ts) { if (!on || window.__danceHold) return; if (t0 === null) t0 = ts; frame((ts - t0) / 1000); requestAnimationFrame(loop); }
+    window.__wenPlanet = frame;
+    requestAnimationFrame(loop);
+  })();
+
   // petals: sakura with a few teal sparks
   var c = document.querySelector('.petals');
   if (!c || reduce || !c.getContext) return;
