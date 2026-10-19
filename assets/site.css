@@ -45,9 +45,8 @@ code{font:.9em/1.4 ui-monospace,Menlo,monospace;background:var(--deep);padding:.
 .hero{position:relative;min-height:min(86vh,760px);display:grid;align-items:center;padding:clamp(48px,8vw,96px) var(--gut) 120px;overflow:hidden;border-bottom:3px solid var(--paper)}
 .lines{position:absolute;inset:-50%;background:repeating-conic-gradient(from 0deg at 72% 38%, rgba(236,230,214,.07) 0deg 1.2deg, transparent 1.2deg 6deg);animation:spin 120s linear infinite;
   mask-image:radial-gradient(circle at 72% 38%, transparent 0 150px, #000 260px, transparent 75%)}
-.stage{position:absolute;right:clamp(-40px,6vw,120px);top:clamp(30px,8vw,100px);width:clamp(220px,32vw,400px);height:clamp(220px,32vw,400px);overflow:visible;filter:drop-shadow(0 0 70px rgba(224,164,68,.30))}
+.stage{position:absolute;right:clamp(-40px,6vw,120px);top:clamp(30px,8vw,100px);width:clamp(220px,32vw,400px);height:clamp(220px,32vw,400px);overflow:visible}
 .stage .branch path,.stage #d-root ellipse,.stage #d-root circle,.stage #d-root rect,.stage #d-head path{fill:#05060b;stroke:#05060b}
-.stage #d-root line{stroke:#05060b;stroke-width:8;stroke-linecap:round}
 .stage #d-tail path,.stage #d-tor>path,.stage .branch path[fill=none],.stage #d-head path[fill=none]{fill:none;stroke:#05060b}
 .hero-copy{position:relative;max-width:46rem;z-index:1}
 @media (max-width:700px){.stage{width:150px;height:150px;top:16px;right:10px}.hero{padding-top:150px}}
