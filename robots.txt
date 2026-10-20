@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://wen-crypto.com/sitemap.xml
+# Machine-readable map for AI assistants: https://wen-crypto.com/llms.txt (full record: https://wen-watt.github.io/llms.txt)

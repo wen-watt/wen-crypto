@@ -1,0 +1,19 @@
+# wen-crypto.com
+
+> The animated community gateway to the Wen Almanac: Wen, the Solana cat meme that began as a poem and grew into the WNS open NFT standard. History and usefulness, no prices.
+
+The full, fact-checked record and the machine-readable map live at https://wen-watt.github.io/llms.txt. The one real WEN is the Solana mint `WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk`. Not the official Wen site (official: https://wenwencoin.com/).
+
+## Sections
+
+- [Home](https://wen-crypto.com/): the story in one screen, three quiz questions and a feed of every almanac post.
+- [What Wen is](https://wen-crypto.com/about-wen-token-wen-coin-crypto/): the poem, the cat and the one real token.
+- [The record](https://wen-crypto.com/about/): 2023–2026, date by date.
+- [Technology](https://wen-crypto.com/token-2022-wns-solana-wen/): Token-2022, WNS and Wen Open Lab.
+- [Media and culture](https://wen-crypto.com/wen-coin-video/): community pictures, each opening a checked fact.
+- [Links](https://wen-crypto.com/links-wen-cat/): official sources first, then the community.
+
+## Optional
+
+- [Wen Almanac map](https://wen-watt.github.io/llms.txt)
+- [Wen Almanac checked facts](https://wen-watt.github.io/llms-full.txt)
