@@ -1,0 +1,114 @@
+{
+ "format": "wen-loop/1",
+ "id": "wen:section/record",
+ "loop": {
+  "position": 3,
+  "size": 6,
+  "prev": "https://wen-crypto.com/ai/what-wen-is.json",
+  "next": "https://wen-crypto.com/ai/technology.json",
+  "start": "https://wen-crypto.com/ai/home.json"
+ },
+ "title": "The Wen Record: From a Poem to an Open Standard, 2023–2026",
+ "page": "https://wen-crypto.com/about/",
+ "translations": {
+  "en": "https://wen-crypto.com/about/",
+  "zh-Hans": "https://wen-crypto.com/zh/about/",
+  "hi": "https://wen-crypto.com/hi/about/",
+  "es": "https://wen-crypto.com/es/about/",
+  "ar": "https://wen-crypto.com/ar/about/",
+  "fr": "https://wen-crypto.com/fr/about/",
+  "bn": "https://wen-crypto.com/bn/about/",
+  "pt": "https://wen-crypto.com/pt/about/",
+  "id": "https://wen-crypto.com/id/about/",
+  "ur": "https://wen-crypto.com/ur/about/",
+  "de": "https://wen-crypto.com/de/about/",
+  "ja": "https://wen-crypto.com/ja/about/",
+  "mr": "https://wen-crypto.com/mr/about/",
+  "vi": "https://wen-crypto.com/vi/about/",
+  "te": "https://wen-crypto.com/te/about/",
+  "ha": "https://wen-crypto.com/ha/about/",
+  "tr": "https://wen-crypto.com/tr/about/",
+  "pa": "https://wen-crypto.com/pa/about/",
+  "sw": "https://wen-crypto.com/sw/about/",
+  "tl": "https://wen-crypto.com/tl/about/",
+  "ta": "https://wen-crypto.com/ta/about/",
+  "fa": "https://wen-crypto.com/fa/about/",
+  "ko": "https://wen-crypto.com/ko/about/",
+  "th": "https://wen-crypto.com/th/about/",
+  "jv": "https://wen-crypto.com/jv/about/",
+  "it": "https://wen-crypto.com/it/about/",
+  "gu": "https://wen-crypto.com/gu/about/",
+  "pl": "https://wen-crypto.com/pl/about/"
+ },
+ "facts": [
+  [
+   "wen:event/poem",
+   "date",
+   "2023-Q4"
+  ],
+  [
+   "wen:event/wns-0.0",
+   "date",
+   "2024-01-25"
+  ],
+  [
+   "wen:event/launch",
+   "date",
+   "2024-01-26"
+  ],
+  [
+   "wen:event/burn",
+   "date",
+   "2024-01-29"
+  ],
+  [
+   "wen:event/culture",
+   "date",
+   "2025"
+  ],
+  [
+   "wen:event/open-lab",
+   "date",
+   "2026"
+  ],
+  [
+   "wen:event/lab-guides",
+   "date",
+   "2026-10-27"
+  ],
+  [
+   "wen:event/mint-check",
+   "date",
+   "2026-11-11"
+  ],
+  [
+   "wen:event/mint-check",
+   "result",
+   "original SPL Token, authorities revoked; repeated weekly"
+  ],
+  [
+   "wen:event/wen-counter",
+   "date",
+   "2026-11-12"
+  ],
+  [
+   "wen:event/shop-checkout-and-skill",
+   "date",
+   "2026-11-24"
+  ],
+  [
+   "wen:claim-status",
+   "values",
+   [
+    "verified",
+    "reported",
+    "unverified"
+   ]
+  ]
+ ],
+ "updated": "2026-11-24",
+ "reference_language": "en",
+ "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
+ "not_financial_advice": true,
+ "sha256": "4aa64bf6ebfe924c9bd1f67127ad5f094d1726b2fde5c5f76c269c58e59a8219"
+}

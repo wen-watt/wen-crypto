@@ -20,7 +20,7 @@ SECTIONS = [
     ('wen-coin-video/', '929da5be7b', 'Media and culture'),
     ('links-wen-cat/', '014bcd654c', 'Links'),
 ]
-EXTRA_EN = ['privacy-policy-cookie-policy/']
+EXTRA_EN = ['privacy-policy-cookie-policy/', 'ai/']
 LANGS = [l for l in build.LANGS if os.path.exists(f'{build.W}/tr/{l[0]}.txt')]
 
 
@@ -51,7 +51,7 @@ def sitemap():
 def llms():
     L = []
     w = L.append
-    w('# wen-crypto.com: Wen gateway in 28 languages')
+    w('# wen-crypto.com: Wen gateway in 28 human languages and one machine language')
     w('')
     w('> The front door to Wen, the cat on Solana that began as a poem and grew into an open NFT standard (WNS). '
       'Six short sections, each in English and 27 other languages, told as history and usefulness: no prices, no forecasts, no exchange links. '
@@ -78,6 +78,15 @@ def llms():
         w(f'- [{t}]({BASE}{p}): {d}')
     t, d = meta(EXTRA_EN[0])
     w(f'- [{t}]({BASE}{EXTRA_EN[0]}): {d}')
+    w('')
+    w('## Machine language: Wen Loop')
+    w('')
+    w(f'The 29th version of the gateway is for neural systems: [Wen Loop]({BASE}ai/), index [{BASE}ai/index.json]({BASE}ai/index.json). '
+      'Six JSON records, one per section, linked in a ring (prev/next, last leads back to the first); facts are [subject, predicate, object] triples; '
+      'each record carries its own sha256 and the URLs of all 28 human versions. Every gateway page links its record with rel="alternate" type="application/json".')
+    w('')
+    for slug in ['home','what-wen-is','record','technology','media','links']:
+        w(f'- {BASE}ai/{slug}.json')
     w('')
     w('## Languages')
     w('')
@@ -109,8 +118,9 @@ def llms():
     return len(L)
 
 
-ROBOTS = f"""# wen-crypto.com: the Wen gateway in 28 languages, open to every reader, human or machine.
+ROBOTS = f"""# wen-crypto.com: the Wen gateway in 28 human languages and Wen Loop, a machine language, open to every reader, human or machine.
 # Machine-readable map by sections and languages: {BASE}llms.txt
+# Machine language (Wen Loop, linked JSON fact records): {BASE}ai/index.json
 # Full, source-checked record: {ALM} (map: {ALM}llms.txt, facts: {ALM}llms-full.txt)
 # AI access map and license (texts CC BY 4.0 with credit): {ALM}ai-access-map.html#license
 # Content signals (contentsignals.org): search, AI answers and AI training are all welcome.

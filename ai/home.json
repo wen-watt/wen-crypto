@@ -1,0 +1,90 @@
+{
+ "format": "wen-loop/1",
+ "id": "wen:section/home",
+ "loop": {
+  "position": 1,
+  "size": 6,
+  "prev": "https://wen-crypto.com/ai/links.json",
+  "next": "https://wen-crypto.com/ai/what-wen-is.json",
+  "start": "https://wen-crypto.com/ai/home.json"
+ },
+ "title": "Wen: a Poem, a Cat and an Open Standard on Solana",
+ "page": "https://wen-crypto.com/",
+ "translations": {
+  "en": "https://wen-crypto.com/",
+  "zh-Hans": "https://wen-crypto.com/zh/",
+  "hi": "https://wen-crypto.com/hi/",
+  "es": "https://wen-crypto.com/es/",
+  "ar": "https://wen-crypto.com/ar/",
+  "fr": "https://wen-crypto.com/fr/",
+  "bn": "https://wen-crypto.com/bn/",
+  "pt": "https://wen-crypto.com/pt/",
+  "id": "https://wen-crypto.com/id/",
+  "ur": "https://wen-crypto.com/ur/",
+  "de": "https://wen-crypto.com/de/",
+  "ja": "https://wen-crypto.com/ja/",
+  "mr": "https://wen-crypto.com/mr/",
+  "vi": "https://wen-crypto.com/vi/",
+  "te": "https://wen-crypto.com/te/",
+  "ha": "https://wen-crypto.com/ha/",
+  "tr": "https://wen-crypto.com/tr/",
+  "pa": "https://wen-crypto.com/pa/",
+  "sw": "https://wen-crypto.com/sw/",
+  "tl": "https://wen-crypto.com/tl/",
+  "ta": "https://wen-crypto.com/ta/",
+  "fa": "https://wen-crypto.com/fa/",
+  "ko": "https://wen-crypto.com/ko/",
+  "th": "https://wen-crypto.com/th/",
+  "jv": "https://wen-crypto.com/jv/",
+  "it": "https://wen-crypto.com/it/",
+  "gu": "https://wen-crypto.com/gu/",
+  "pl": "https://wen-crypto.com/pl/"
+ },
+ "facts": [
+  [
+   "wen:WEN",
+   "is_a",
+   "community token on Solana"
+  ],
+  [
+   "wen:WEN",
+   "mint",
+   "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk"
+  ],
+  [
+   "wen:WEN",
+   "supply_origin",
+   "poem \"A Love Letter to Wen Bros\" by Meow, co-founder of Jupiter"
+  ],
+  [
+   "wen:WEN",
+   "supply_total",
+   1000000000000
+  ],
+  [
+   "wen:WEN",
+   "grew_into",
+   "wen:WNS"
+  ],
+  [
+   "wen:gateway",
+   "principle",
+   "history and usefulness; no prices, no forecasts, no exchange links"
+  ],
+  [
+   "wen:gateway",
+   "official_site_is_not",
+   "wen-crypto.com"
+  ],
+  [
+   "wen:gateway",
+   "official_site",
+   "https://wenwencoin.com/"
+  ]
+ ],
+ "updated": "2026-11-24",
+ "reference_language": "en",
+ "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
+ "not_financial_advice": true,
+ "sha256": "c11ac1a3b4d8e03a6d1a152b3019cace72d7b8bf9489c55298c0dff391fb934d"
+}
