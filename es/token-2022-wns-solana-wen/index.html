@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Token-2022, WNS y Wen Open Lab: lo que Wen construyó</title>
+<meta content="Extensiones de Token-2022, el Wen New Standard para NFT y los modelos gratuitos de Wen Open Lab: recibos, regalías, facturas y pagos que puedes probar." name="description"/>
+<meta content="Token-2022, Wen New Standard, WNS, Solana NFT standard, transfer hook, creator royalties, Wen Open Lab" name="keywords"/>
+<link href="https://wen-crypto.com/es/token-2022-wns-solana-wen/" rel="canonical"/>
+<link href="https://wen-crypto.com/token-2022-wns-solana-wen/" hreflang="en" rel="alternate"/>
+<link href="https://wen-crypto.com/zh/token-2022-wns-solana-wen/" hreflang="zh-Hans" rel="alternate"/>
+<link href="https://wen-crypto.com/es/token-2022-wns-solana-wen/" hreflang="es" rel="alternate"/>
+<link href="https://wen-crypto.com/fr/token-2022-wns-solana-wen/" hreflang="fr" rel="alternate"/>
+<link href="https://wen-crypto.com/token-2022-wns-solana-wen/" hreflang="x-default" rel="alternate"/>
+
+
+
+<meta content="website" property="og:type"/>
+<meta content="Token-2022, WNS y Wen Open Lab: lo que Wen construyó" property="og:title"/>
+<meta content="Extensiones de Token-2022, el Wen New Standard para NFT y los modelos gratuitos de Wen Open Lab: recibos, regalías, facturas y pagos que puedes probar." property="og:description"/>
+<meta content="https://wen-crypto.com/es/token-2022-wns-solana-wen/" property="og:url"/>
+<meta content="https://wen-watt.github.io/wen-media/wen-logo-all.jpeg" property="og:image"/>
+<meta content="Logo del gato Wen, el almanaque comunitario en Solana" property="og:image:alt"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="#0a0c14" name="theme-color"/>
+<link href="../../assets/favicon-32.png" rel="icon" sizes="32x32"/>
+<link href="../../assets/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="../../llms.txt" rel="alternate" title="Machine-readable map (llms.txt)" type="text/plain"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&amp;family=Zen+Kaku+Gothic+New:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="../../assets/site.css?v=6" rel="stylesheet"/>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "name": "Token-2022, WNS y Wen Open Lab: lo que Wen construyó", "description": "Extensiones de Token-2022, el Wen New Standard para NFT y los modelos gratuitos de Wen Open Lab: recibos, regalías, facturas y pagos que puedes probar.", "url": "https://wen-crypto.com/es/token-2022-wns-solana-wen/", "inLanguage": "es", "isPartOf": {"@type": "WebSite", "name": "Wen — community almanac", "url": "https://wen-crypto.com/es/"}, "about": {"@type": "Thing", "name": "Wen (WEN) token on Solana"}, "relatedLink": "https://wen-watt.github.io/"}</script>
+<meta content="es_ES" property="og:locale"/></head>
+<body class="sec token-2022-wns-solana-wen">
+<canvas aria-hidden="true" class="petals"></canvas>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top"><a class="brand" href="../"><img alt="Logo del gato Wen" height="36" src="../../assets/wen-logo-96.png" width="36"/><span>Wen</span></a><button aria-controls="nav" aria-expanded="false" class="menu" type="button">Menú</button><nav aria-label="Secciones" id="nav"><ul><li><a href="../">Inicio</a></li><li><a href="../about-wen-token-wen-coin-crypto/">Qué es Wen</a></li><li><a href="../about/">La crónica</a></li><li><a aria-current="page" href="../token-2022-wns-solana-wen/">Tecnología</a></li><li><a href="../wen-coin-video/">Medios y cultura</a></li><li><a href="../links-wen-cat/">Enlaces</a></li><li><a href="../../privacy-policy-cookie-policy/">Privacidad</a></li><li class="ext"><a href="https://wen-watt.github.io/">Almanaque</a></li></ul></nav></header>
+<main id="main">
+<article class="prose sec"><h1>Token-2022, WNS y Wen Open Lab: lo que Wen construyó</h1><p class="has-large-font-size">Token-2022 es el programa de tokens de Solana con extensiones. WNS, el Wen New Standard, lo usa para que los NFT sean ligeros, abiertos y justos con los creadores. Wen Open Lab convierte ambos en herramientas gratuitas que puedes probar: modelos, una caja para tiendas y una skill de IA.</p>
+<h2 class="wp-block-heading">Token-2022 en un minuto</h2>
+<p>Un token en Solana es un mint más unas cuentas. Token-2022 permite que el mint lleve reglas extra, las extensiones, escritas en el propio token y no en cada aplicación que lo rodea:</p>
+<ul class="wp-block-list"><li><strong>Metadata</strong>: nombre, símbolo e imagen guardados con el mint.</li>
+<li><strong>Transfer Hook</strong>: un programa se ejecuta en cada transferencia; WNS lo usa para imponer regalías.</li>
+<li><strong>Non-Transferable</strong>: un token ligado a su dueño, usado en los recibos de garantía del Lab.</li>
+<li><strong>Permanent Delegate</strong>: un emisor puede mover o quemar tokens; es potente, así que comprueba siempre quién lo tiene.</li>
+<li><strong>Transfer Fee</strong> e <strong>Interest-Bearing</strong>: comisiones y rendimientos definidos a nivel del token.</li>
+</ul>
+<h2 class="wp-block-heading">WNS: el Wen New Standard</h2>
+<p>Propuesto el 25 de enero de 2024, WNS describe los NFT como mints de Token-2022 con metadatos y punteros de grupo, más un transfer hook que impone las regalías de los creadores. El código es abierto en la <a href="https://github.com/wen-community/wen-program-library">Wen Program Library</a>. Lee las guías del almanaque: <a href="https://wen-watt.github.io/token-2022-wns-solana-wen.html">Token-2022 y WNS</a> y <a href="https://wen-watt.github.io/spl-solana-program-library-token-2022-wns.html">SPL, Token-2022 y WNS explicados</a>.</p>
+<figure class="wp-block-image size-large"><img alt="Arte comunitario de WNS y Token-2022" src="https://wen-watt.github.io/wen-media/spl-wns-rwa-token-2022-3.jpeg"/><figcaption class="wp-element-caption">¿Qué significa WNS? <a href="https://wen-watt.github.io/image-story/spl-wns-rwa-token-2022-3.html">La historia de la imagen</a></figcaption></figure>
+<h2 class="wp-block-heading">Wen Open Lab: de modelos a herramientas que funcionan</h2>
+<ol class="wp-block-list"><li><a href="https://wen-watt.github.io/lab/receipt-warranty-wns.html">Recibos y tarjetas de garantía</a>: una prueba de compra que no se puede revender.</li>
+<li><a href="https://wen-watt.github.io/lab/creator-royalties-wns.html">Regalías para creadores</a>: las paga el token en cada venta.</li>
+<li><a href="https://wen-watt.github.io/lab/b2b-invoices-token-2022.html">Facturas B2B</a>: facturas con reglas que impone el token.</li>
+<li><a href="https://wen-watt.github.io/lab/payments-acquiring-bridge.html">Un puente de pagos</a>: Solana Pay junto a la adquirencia con tarjeta.</li>
+<li><a href="https://wen-watt.github.io/lab/payment-simulator.html">Un simulador de pagos</a>: comisiones de tarjeta frente a comisiones en cadena, lado a lado.</li>
+<li><a href="https://wen-watt.github.io/lab/devnet.html">Devnet</a>: repítelo todo tú mismo con monedas de prueba gratuitas.</li>
+<li><a href="https://wen-watt.github.io/lab/counter.html">Wen Counter</a>: una caja en una página web sobre Solana Pay; solo recibe, no cobra comisión por venta y la respaldan 57 comprobaciones que cualquiera puede repetir.</li>
+<li><a href="https://wen-watt.github.io/lab/shop-integration.html">Tiendas: plugin y skill</a>: la misma caja como checkout de WooCommerce, más una skill de IA que audita una tienda y la configura con el consentimiento del dueño.</li>
+</ol>
+<p>Todo el Lab también se lee en <a href="https://wen-watt.github.io/it-wen/lab/">italiano</a>, <a href="https://wen-watt.github.io/cn-wen/lab/">chino</a> y <a href="https://wen-watt.github.io/ko-wen/lab/">coreano</a>. Para asistentes de IA hay un centro de <a href="https://wen-watt.github.io/skills/">Wen Skills</a>: un solo comando, <code>npx skills add wen-watt/skills</code>.</p>
+<p>Regla de seguridad del Lab: ejecuta los modelos en devnet con una billetera desechable; nunca pegues una clave privada en ningún sitio.</p>
+<h2 class="wp-block-heading">Por qué importa: la historia de la utilidad</h2>
+<p>Todo lo comercial se apaga; lo que queda es lo que un token enseñó y construyó. Para Wen son tres cosas que puedes comprobar hoy: un lanzamiento que puso a prueba Solana con más de un millón de billeteras, un poema convertido en NFT fraccionado y el <a href="https://wen-watt.github.io/token-2022-wns-solana-wen.html">Wen New Standard (WNS)</a>, una forma abierta de crear NFT sobre Token-2022. <a href="https://wen-watt.github.io/lab/index.html">Wen Open Lab</a> lleva ese estándar a herramientas de todos los días, todas gratuitas y probadas en abierto: recibos de garantía, regalías y facturas, una <a href="https://wen-watt.github.io/lab/counter.html">caja que solo recibe</a> que cualquier tienda abre en el navegador, un <a href="https://wen-watt.github.io/lab/shop-integration.html">checkout para tiendas en línea</a> y una <a href="https://wen-watt.github.io/skills/">skill de IA</a> que lo instala con seguridad. Eso es lo que guarda el almanaque.</p>
+<div class="wp-block-buttons"><div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wen-watt.github.io/lab/benefits.html">Lee la historia de la utilidad</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://wen-watt.github.io/lab/index.html">Abrir Wen Open Lab</a></div>
+</div><aside class="gate"><div class="wp-block-group wen-note"><p><strong>Almanaque comunitario.</strong> No es el sitio oficial de Wen; el oficial es <a href="https://wenwencoin.com/">wenwencoin.com</a>. La historia completa, mantenida y con fuentes vive en GitHub: <a href="https://wen-watt.github.io/">el Almanaque Wen</a>. Contenido educativo, no es asesoramiento financiero.</p>
+</div></aside></article>
+</main>
+<footer class="foot"><p><strong>Wen, un almanaque comunitario.</strong> No es el sitio oficial de Wen; el oficial es <a href="https://wenwencoin.com/">wenwencoin.com</a>. La crónica completa, mantenida y con fuentes vive en <a href="https://wen-watt.github.io/">wen-watt.github.io</a>.</p><p><a href="https://wen-watt.github.io/sources.html">Todas las fuentes</a> <a href="https://wen-watt.github.io/lab/index.html">Wen Open Lab</a> <a href="https://wen-watt.github.io/quiz.html">Cuestionario</a> <a href="../../privacy-policy-cookie-policy/">Privacidad</a></p><p>Comunidad: <a href="https://x.com/i/communities/1865784545158496651">X</a> <a href="https://youtube.com/@wen-coin">YouTube</a> <a href="https://www.tiktok.com/@wen_coin_crypto">TikTok</a> <a href="https://www.pinterest.com/Alexwoogo/wen-wen-crypto-coin-new-2027-and-cats-crypto/">Pinterest</a></p><p class="small">Contenido educativo, no es asesoramiento financiero. Sin precios ni pronósticos. © 2024–2026 comunidad Wen.</p><p class="small trnote">Traducido del inglés por la comunidad Wen con ayuda de IA. La página en inglés es la referencia.</p><p class="small langs-title">Léelo en tu idioma</p><nav aria-label="Languages" class="langs"><a href="https://wen-crypto.com/token-2022-wns-solana-wen/" hreflang="en" lang="en">English</a> <a href="https://wen-crypto.com/zh/token-2022-wns-solana-wen/" hreflang="zh" lang="zh">中文</a> <a aria-current="true" href="https://wen-crypto.com/es/token-2022-wns-solana-wen/" hreflang="es" lang="es">Español</a> <a href="https://wen-crypto.com/fr/token-2022-wns-solana-wen/" hreflang="fr" lang="fr">Français</a></nav></footer>
+<script defer="" src="../../assets/site.js?v=4"></script>
+</body>
+</html>
