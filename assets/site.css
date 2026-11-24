@@ -177,3 +177,9 @@ blockquote{margin:2rem 0;padding-left:1.2rem;border-left:4px solid var(--sakura)
   .shorts{grid-template-columns:1fr}
   .phone{width:100%;max-width:420px;margin:0 auto;aspect-ratio:auto;height:min(78vh,640px)}
 }
+.langs-title{margin:1.2em 0 .3em;opacity:.8}
+.langs{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:.88rem;line-height:1.6}
+.langs a{text-decoration:none;opacity:.85}
+.langs a:hover,.langs a[aria-current]{opacity:1;text-decoration:underline}
+.trnote{opacity:.7;font-style:italic}
+[dir=rtl] .hero-copy,[dir=rtl] .prose,[dir=rtl] .sec,[dir=rtl] .play,[dir=rtl] .doors h2{text-align:right}
