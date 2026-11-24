@@ -1,5 +1,6 @@
-# wen-crypto.com: the Wen gateway in 28 languages, open to every reader, human or machine.
+# wen-crypto.com: the Wen gateway in 28 human languages and Wen Loop, a machine language, open to every reader, human or machine.
 # Machine-readable map by sections and languages: https://wen-crypto.com/llms.txt
+# Machine language (Wen Loop, linked JSON fact records): https://wen-crypto.com/ai/index.json
 # Full, source-checked record: https://wen-watt.github.io/ (map: https://wen-watt.github.io/llms.txt, facts: https://wen-watt.github.io/llms-full.txt)
 # AI access map and license (texts CC BY 4.0 with credit): https://wen-watt.github.io/ai-access-map.html#license
 # Content signals (contentsignals.org): search, AI answers and AI training are all welcome.

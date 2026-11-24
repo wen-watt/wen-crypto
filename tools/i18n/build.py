@@ -36,14 +36,17 @@ def fix_links(soup,p,lang):
             if tdir in TRANSLATED_DIRS:
                 continue  # same structure inside /lang/
             el[a]='../'+u
+AI_SLUG={'index.html':'home','about-wen-token-wen-coin-crypto/index.html':'what-wen-is','about/index.html':'record','token-2022-wns-solana-wen/index.html':'technology','wen-coin-video/index.html':'media','links-wen-cat/index.html':'links'}
 def hreflang_block(p):
     out=[f'<link rel="alternate" hreflang="en" href="{page_url(p)}">']
     out+= [f'<link rel="alternate" hreflang="{l[2]}" href="{page_url(p,l[0])}">' for l in DONE]
     out.append(f'<link rel="alternate" hreflang="x-default" href="{page_url(p)}">')
+    out.append(f'<link rel="alternate" type="application/json" href="https://wen-crypto.com/ai/{AI_SLUG[p]}.json" title="Wen Loop (machine language)">')
     return '\n'.join(out)
 def switcher(p,cur):
     items=[('en','English',page_url(p))]+[(l[0],l[1],page_url(p,l[0])) for l in DONE]
     lis=''.join(f'<a href="{u}" hreflang="{c}" lang="{c}"'+(' aria-current="true"' if c==cur else '')+f'>{n}</a> ' for c,n,u in items)
+    lis+=f'<a href="https://wen-crypto.com/ai/#{AI_SLUG[p]}" class="loop-link"'+(' aria-current="true"' if cur=='ai' else '')+'>{ } Machine</a>'
     return f'<nav class="langs" aria-label="Languages">{lis.strip()}</nav>'
 MISS=set()
 def tr_text(T,v):
@@ -84,7 +87,8 @@ def build(p,lang,T):
     soup.html['lang']=code[2]; soup.html['dir']=code[4]
     can=soup.find('link',rel='canonical'); can['href']=page_url(p,lang)
     for m in soup.find_all('meta',property='og:url'): m['content']=page_url(p,lang)
-    for m in soup.find_all('link',rel='alternate',hreflang=True): m.decompose()
+    for m in soup.find_all('link',rel='alternate'):
+        if m.get('hreflang') or m.get('type')=='application/json': m.decompose()
     ogl=soup.find('meta',property='og:locale')
     if ogl: ogl['content']=code[3]
     else: soup.head.append(BeautifulSoup(f'<meta property="og:locale" content="{code[3]}">','html.parser'))
@@ -120,6 +124,7 @@ def add_en_alternates():
     for p in PAGES:
         s=open(f'{SRC}/{p}').read()
         s=re.sub(r'\n<link rel="alternate" hreflang="[^"]*" href="[^"]*">','',s)
+        s=re.sub(r'\n<link rel="alternate" type="application/json"[^>]*>','',s)
         s=re.sub(r'<p class="small langs-title">.*?</nav>','',s,flags=re.S)
         m=re.search(r'<link rel="canonical" href="[^"]*">',s)
         s=s[:m.end()]+'\n'+hreflang_block(p)+s[m.end():]

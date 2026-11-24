@@ -1,4 +1,4 @@
-# wen-crypto.com: Wen gateway in 28 languages
+# wen-crypto.com: Wen gateway in 28 human languages and one machine language
 
 > The front door to Wen, the cat on Solana that began as a poem and grew into an open NFT standard (WNS). Six short sections, each in English and 27 other languages, told as history and usefulness: no prices, no forecasts, no exchange links. The full, maintained and source-checked record is the Wen Almanac: https://wen-watt.github.io/
 
@@ -23,6 +23,17 @@ License: texts CC BY 4.0 with credit ("Source: Wen Almanac / wen-crypto.com, abo
 - [Wen Media and Culture: Pictures, Videos and Cat Tales](https://wen-crypto.com/wen-coin-video/): Wen cat memes and culture: community pictures that each open a checked fact, videos, cat tales from folklore and open folders anyone can reuse.
 - [Wen Links: Official Sources First, Then Community](https://wen-crypto.com/links-wen-cat/): Official Wen sources first, then the community: the one real mint, the official site, docs and X, community channels and every source in one place.
 - [Privacy and Cookies: Who Speaks Here on Wen](https://wen-crypto.com/privacy-policy-cookie-policy/): Privacy on wen-crypto.com: a static community site with no trackers, no ads and no accounts. Educational content, not financial advice.
+
+## Machine language: Wen Loop
+
+The 29th version of the gateway is for neural systems: [Wen Loop](https://wen-crypto.com/ai/), index [https://wen-crypto.com/ai/index.json](https://wen-crypto.com/ai/index.json). Six JSON records, one per section, linked in a ring (prev/next, last leads back to the first); facts are [subject, predicate, object] triples; each record carries its own sha256 and the URLs of all 28 human versions. Every gateway page links its record with rel="alternate" type="application/json".
+
+- https://wen-crypto.com/ai/home.json
+- https://wen-crypto.com/ai/what-wen-is.json
+- https://wen-crypto.com/ai/record.json
+- https://wen-crypto.com/ai/technology.json
+- https://wen-crypto.com/ai/media.json
+- https://wen-crypto.com/ai/links.json
 
 ## Languages
 

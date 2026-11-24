@@ -5,3 +5,7 @@
 ## SEO files
 
 After `build.py`, run `seo.py`: it regenerates `sitemap.xml` (every section URL with xhtml:link hreflang alternates for all languages and x-default), `llms.txt` (sections and languages map) and `robots.txt`.
+
+## Wen Loop (machine language)
+
+Run order: `build.py` → `machine.py` → `seo.py`. `machine.py` writes `/ai/` (index.html, index.json and six section records linked in a ring, each with its own sha256).

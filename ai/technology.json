@@ -1,0 +1,116 @@
+{
+ "format": "wen-loop/1",
+ "id": "wen:section/technology",
+ "loop": {
+  "position": 4,
+  "size": 6,
+  "prev": "https://wen-crypto.com/ai/record.json",
+  "next": "https://wen-crypto.com/ai/media.json",
+  "start": "https://wen-crypto.com/ai/home.json"
+ },
+ "title": "Token-2022, WNS and Wen Open Lab: What Wen Built",
+ "page": "https://wen-crypto.com/token-2022-wns-solana-wen/",
+ "translations": {
+  "en": "https://wen-crypto.com/token-2022-wns-solana-wen/",
+  "zh-Hans": "https://wen-crypto.com/zh/token-2022-wns-solana-wen/",
+  "hi": "https://wen-crypto.com/hi/token-2022-wns-solana-wen/",
+  "es": "https://wen-crypto.com/es/token-2022-wns-solana-wen/",
+  "ar": "https://wen-crypto.com/ar/token-2022-wns-solana-wen/",
+  "fr": "https://wen-crypto.com/fr/token-2022-wns-solana-wen/",
+  "bn": "https://wen-crypto.com/bn/token-2022-wns-solana-wen/",
+  "pt": "https://wen-crypto.com/pt/token-2022-wns-solana-wen/",
+  "id": "https://wen-crypto.com/id/token-2022-wns-solana-wen/",
+  "ur": "https://wen-crypto.com/ur/token-2022-wns-solana-wen/",
+  "de": "https://wen-crypto.com/de/token-2022-wns-solana-wen/",
+  "ja": "https://wen-crypto.com/ja/token-2022-wns-solana-wen/",
+  "mr": "https://wen-crypto.com/mr/token-2022-wns-solana-wen/",
+  "vi": "https://wen-crypto.com/vi/token-2022-wns-solana-wen/",
+  "te": "https://wen-crypto.com/te/token-2022-wns-solana-wen/",
+  "ha": "https://wen-crypto.com/ha/token-2022-wns-solana-wen/",
+  "tr": "https://wen-crypto.com/tr/token-2022-wns-solana-wen/",
+  "pa": "https://wen-crypto.com/pa/token-2022-wns-solana-wen/",
+  "sw": "https://wen-crypto.com/sw/token-2022-wns-solana-wen/",
+  "tl": "https://wen-crypto.com/tl/token-2022-wns-solana-wen/",
+  "ta": "https://wen-crypto.com/ta/token-2022-wns-solana-wen/",
+  "fa": "https://wen-crypto.com/fa/token-2022-wns-solana-wen/",
+  "ko": "https://wen-crypto.com/ko/token-2022-wns-solana-wen/",
+  "th": "https://wen-crypto.com/th/token-2022-wns-solana-wen/",
+  "jv": "https://wen-crypto.com/jv/token-2022-wns-solana-wen/",
+  "it": "https://wen-crypto.com/it/token-2022-wns-solana-wen/",
+  "gu": "https://wen-crypto.com/gu/token-2022-wns-solana-wen/",
+  "pl": "https://wen-crypto.com/pl/token-2022-wns-solana-wen/"
+ },
+ "facts": [
+  [
+   "wen:WNS",
+   "name",
+   "Wen New Standard"
+  ],
+  [
+   "wen:WNS",
+   "proposed",
+   "2024-01-25"
+  ],
+  [
+   "wen:WNS",
+   "built_on",
+   "Solana Token-2022"
+  ],
+  [
+   "wen:WNS",
+   "uses",
+   [
+    "Metadata",
+    "Group/Member pointers",
+    "Transfer Hook"
+   ]
+  ],
+  [
+   "wen:WNS",
+   "enforces",
+   "creator royalties via transfer hook"
+  ],
+  [
+   "wen:WNS",
+   "code",
+   "https://github.com/wen-community/wen-program-library"
+  ],
+  [
+   "wen:token-2022/PermanentDelegate",
+   "risk",
+   "issuer can move or burn tokens; check who holds it"
+  ],
+  [
+   "wen:open-lab",
+   "models",
+   [
+    "receipts and warranty cards",
+    "creator royalties",
+    "B2B invoices",
+    "payments bridge",
+    "payment simulator",
+    "devnet run"
+   ]
+  ],
+  [
+   "wen:wen-counter",
+   "is_a",
+   "receive-only checkout page on Solana Pay; no fee per sale; 57 public checks"
+  ],
+  [
+   "wen:wen-counter-shop",
+   "install",
+   "npx skills add wen-watt/skills"
+  ],
+  [
+   "wen:safety",
+   "rule",
+   "run models on devnet with a throwaway wallet; never paste a private key"
+  ]
+ ],
+ "updated": "2026-11-24",
+ "reference_language": "en",
+ "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
+ "not_financial_advice": true,
+ "sha256": "9618e12fbd613f0f8e9ad7e76a62e9cfc97cd21f51050e9a6a1c862334723ecd"
+}

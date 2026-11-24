@@ -4,7 +4,7 @@ name: IndexNow
 on:
   push:
     branches: [main]
-    paths: ['**.html', '**.txt', '**.xml']
+    paths: ['**.html', '**.txt', '**.xml', '**.json']
   workflow_dispatch:
     inputs:
       urls:
@@ -34,7 +34,7 @@ jobs:
           else
             RANGE="HEAD~1 HEAD"
           fi
-          git diff --name-only --diff-filter=AM $RANGE | grep -E '\.(html|txt|xml)$' | grep -v -E '^(\.github/|README\.md$)' | grep -v "$KEY_FILE" | while read -r f; do
+          git diff --name-only --diff-filter=AM $RANGE | grep -E '\.(html|txt|xml|json)$' | grep -v -E '^(\.github/|README\.md$)' | grep -v "$KEY_FILE" | while read -r f; do
             case "$f" in
               index.html) echo "$SITE/" ;;
               */index.html) echo "$SITE/${f%index.html}" ;;
