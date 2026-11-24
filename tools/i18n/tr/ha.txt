@@ -188,3 +188,4 @@ faq_q|Menene Wen (WEN)?
 faq_a|Wen (WEN) token ne na al'umma a kan Solana wanda adadinsa waƙa ce: wasiƙar soyayya ta Meow, ɗaya daga cikin waɗanda suka kafa Jupiter, wadda aka ƙirƙira a matsayin NFT da Wen New Standard (WNS) kuma aka raba ta zuwa token tiriliyan ɗaya. A Janairu 2024 an yi airdrop ɗinsa ga walat fiye da miliyan ɗaya a matsayin gwaji na gaske kafin token na Jupiter kansa. WEN ɗaya tilo na gaskiya shi ne mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk. A kewaye da shi, Wen Open Lab yana ba da kayan aiki kyauta: wurin karɓar kuɗi da ke karɓa kawai, biyan kuɗi na shaguna, da ƙwarewar AI.
 langs|Karanta a harshenka
 trnote|Al'ummar Wen ce ta fassara daga Turanci tare da taimakon AI. Shafin Turanci shi ne abin dogaro.
+86c2c838b4|A wasu ƙasashe, biyan kaya da kadarorin crypto an hana shi ko yana buƙatar lasisi (misali Turkiyya, Thailand, Indonesiya, babban yankin China da Bangladesh). Ka duba dokokin ƙasarka kafin ka yi amfani da Wen Counter.

@@ -13,6 +13,7 @@
  "translations": {
   "en": "https://wen-crypto.com/about/",
   "zh-Hans": "https://wen-crypto.com/zh/about/",
+  "zh-Hant": "https://wen-crypto.com/zh-hant/about/",
   "hi": "https://wen-crypto.com/hi/about/",
   "es": "https://wen-crypto.com/es/about/",
   "ar": "https://wen-crypto.com/ar/about/",
@@ -20,7 +21,6 @@
   "bn": "https://wen-crypto.com/bn/about/",
   "pt": "https://wen-crypto.com/pt/about/",
   "id": "https://wen-crypto.com/id/about/",
-  "ur": "https://wen-crypto.com/ur/about/",
   "de": "https://wen-crypto.com/de/about/",
   "ja": "https://wen-crypto.com/ja/about/",
   "mr": "https://wen-crypto.com/mr/about/",
@@ -32,7 +32,6 @@
   "sw": "https://wen-crypto.com/sw/about/",
   "tl": "https://wen-crypto.com/tl/about/",
   "ta": "https://wen-crypto.com/ta/about/",
-  "fa": "https://wen-crypto.com/fa/about/",
   "ko": "https://wen-crypto.com/ko/about/",
   "th": "https://wen-crypto.com/th/about/",
   "jv": "https://wen-crypto.com/jv/about/",
@@ -110,5 +109,5 @@
  "reference_language": "en",
  "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
  "not_financial_advice": true,
- "sha256": "4aa64bf6ebfe924c9bd1f67127ad5f094d1726b2fde5c5f76c269c58e59a8219"
+ "sha256": "89aac599f6ea9f0c3ca788e18627df7fc2d38a7d395b7d1ff5ef48a3f730811f"
 }

@@ -188,3 +188,4 @@ faq_q|Wen（WEN）是什么？
 faq_a|Wen（WEN）是 Solana 上的社区代币，它的供应量是一首诗：Jupiter 联合创始人 Meow 写的一封情书，以 Wen New Standard（WNS）铸造成 NFT，并拆分为一万亿枚代币。2024 年 1 月，它被空投给超过一百万个钱包，作为 Jupiter 自有代币之前的一次真实测试。唯一真正的 WEN 是铸币地址 WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk。围绕它，Wen Open Lab 提供免费工具：只收款的收银台、商店结账和一项 AI 技能。
 langs|用你的语言阅读
 trnote|由 Wen 社区在 AI 协助下从英文翻译。英文页面为准。
+86c2c838b4|在一些国家，用加密资产支付商品被禁止或需要许可（例如土耳其、泰国、印度尼西亚、中国大陆和孟加拉国）。使用 Wen Counter 之前，请先了解当地规定。

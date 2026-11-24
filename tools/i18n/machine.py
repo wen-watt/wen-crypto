@@ -126,7 +126,7 @@ def main():
                     'Read in order or start anywhere; next always leads around the ring back to the start.',
            'how_to_read': ['each record: id, loop{prev,next,start}, facts[[subject,predicate,object]], translations, sha256',
                            'sha256 = sha256 of the record serialized with sort_keys and without the sha256 field',
-                           'human languages: en is the reference; 27 translations listed per record'],
+                           f'human languages: en is the reference; {len(LANGS)} translations listed per record'],
            'records': [{'id': r['id'], 'url': f"{BASE}ai/{r['id'].split('/')[-1]}.json", 'sha256': r['sha256']} for r in recs],
            'mint': MINT, 'updated': DATE,
            'more': {'llms': BASE + 'llms.txt', 'almanac': ALM, 'almanac_llms': ALM + 'llms.txt', 'facts': ALM + 'llms-full.txt'}}
@@ -164,7 +164,7 @@ def write_html(recs, idx):
             'all friends here.</p>'
             f'<p><a href="index.json">index.json</a> · <a href="{BASE}llms.txt">llms.txt</a> · <a href="{ALM}">Wen Almanac</a></p>'
             + ''.join(rows) +
-            '<p class="small">English is the reference; every record lists its 27 translations. Educational, not financial advice.</p>'
+            f'<p class="small">English is the reference; every record lists its {len(LANGS)} translations. Educational, not financial advice.</p>'
             f'<p class="small langs-title">Read in your language</p>{build.switcher("index.html", "ai")}</main>')
     out = f'<!DOCTYPE html>\n<html lang="en">\n<head>{head}</head>\n<body>{body}\n</body>\n</html>\n'
     open(f'{SRC}/ai/index.html', 'w').write(out)

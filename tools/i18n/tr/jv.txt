@@ -188,3 +188,4 @@ faq_q|Apa iku Wen (WEN)?
 faq_a|Wen (WEN) iku token komunitas ing Solana sing pasokané arupa geguritan: layang katresnan saka Meow, salah siji pandhiri Jupiter, sing dicithak dadi NFT nganggo Wen New Standard (WNS) lan dipérang dadi sak triliun token. Ing Januari 2024 token iki di-airdrop menyang luwih saka sak yuta dompet minangka ujian nyata sadurungé token Jupiter dhéwé. Siji-sijiné WEN asli yaiku mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk. Ing sakubengé, Wen Open Lab nyedhiyakaké piranti gratis: kasir sing mung nampa, pambayaran kanggo toko, lan katrampilan AI.
 langs|Waca nganggo basamu
 trnote|Diterjemahaké saka basa Inggris déning komunitas Wen kanthi bantuan AI. Kaca basa Inggris dadi acuan.
+86c2c838b4|Ing sawetara negara, mbayar barang nganggo aset kripto dilarang utawa butuh lisènsi (contoné Turki, Thailand, Indonésia, Tiongkok daratan lan Bangladesh). Priksa aturan ing panggonanmu sadurungé nganggo Wen Counter.

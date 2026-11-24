@@ -188,3 +188,4 @@ faq_q|Che cos'è Wen (WEN)?
 faq_a|Wen (WEN) è un token della comunità su Solana la cui offerta è una poesia: una lettera d'amore di Meow, cofondatore di Jupiter, coniata come NFT con il Wen New Standard (WNS) e divisa in mille miliardi di token. A gennaio 2024 è stato distribuito via airdrop a più di un milione di wallet, come test reale prima del token di Jupiter. L'unico vero WEN è il mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk. Intorno a esso, Wen Open Lab offre strumenti gratuiti: una cassa che riceve soltanto, un checkout per negozi e una skill di IA.
 langs|Leggi nella tua lingua
 trnote|Tradotto dall'inglese dalla comunità Wen con l'aiuto dell'IA. La pagina inglese fa fede.
+86c2c838b4|In alcuni paesi pagare beni con cripto-attività è vietato o richiede una licenza (ad esempio Turchia, Thailandia, Indonesia, Cina continentale e Bangladesh). Verifica le regole locali prima di usare Wen Counter.
