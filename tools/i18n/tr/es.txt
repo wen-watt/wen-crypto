@@ -1,0 +1,190 @@
+57f5f5efbc|Menú
+70f8bb9a8a|Inicio
+bde817c92f|Qué es Wen
+5c82441a97|La crónica
+d018b082e8|Tecnología
+929da5be7b|Medios y cultura
+014bcd654c|Enlaces
+cf01481f62|Privacidad
+9109cec1d7|Almanaque
+535ebcd2ac|Un almanaque comunitario en Solana
+74405018f2|<span>Un poema </span><span>se volvió gato, </span><span>y el gato, un estándar.</span>
+32e695777d|Wen nació como una carta de amor escrita por Meow, de Jupiter. Se dividió en un billón de piezas, llegó a un millón de billeteras y creció hasta convertirse en WNS, una forma abierta de crear NFT. Esta es su historia, contada como memoria y utilidad, nunca como precio.
+bad2b4d09a|<a1>Abrir el Almanaque Wen</a1><a2>Prueba tres preguntas</a2>
+4379156238|Seis puertas a la historia
+61c299201e|El poema, el gato y el único token real.
+22ba838d7b|De 2023 a 2026, fecha a fecha.
+c91e80f375|Token-2022, WNS y las herramientas gratuitas del Lab.
+7729e65ffc|Imágenes que abren, cada una, un dato comprobado.
+a596952f70|Primero las fuentes oficiales, luego la comunidad.
+c5cd918215|Herramientas gratuitas
+56f39bb521|Una caja que solo recibe, un checkout para tiendas y una skill de IA. Gratis, abierto, comprobado.
+1887209b17|Tres preguntas, tres datos
+7c8b94c9ed|Elige una respuesta. Aciertes o no, recibes el dato comprobado y la página de donde sale.
+7e0d51bce7|¿Qué era Wen antes de ser un token?
+8fe2749331|Un poema
+4dbea4512a|Un videojuego
+268538baea|Un banco
+db7de48771|Meow, cofundador de Jupiter, escribió «A Love Letter to Wen Bros». Se acuñó como NFT y se dividió en un billón de tokens. <a1>Lee la historia completa</a1>
+d2ad13c64c|¿Cuántas billeteras recibieron el airdrop de enero de 2024?
+217bf5aa28|Unas mil
+8b87de407e|Más de un millón
+09d9a8f567|Exactamente 300
+a6a2b4794e|WEN llegó a más de un millón de billeteras de Solana, y la red aguantó. Fue la primera prueba del launchpad de Jupiter. <a1>Lee la historia completa</a1>
+368a1ce272|¿Qué hace imposible falsificar el WEN real?
+376b0e8cf4|Su nombre
+1e9d965565|Su logo
+a1487546fb|Su dirección de mint
+44a1c04f22|Los nombres y las imágenes se pueden copiar. El mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk, no. <a1>Lee la historia completa</a1>
+267722d8bc|Hay 250 más en el <a1>cuestionario Wen</a1>.
+7336414604|Por qué importa: la historia de la utilidad
+fdb82e2283|Todo lo comercial se apaga; lo que queda es lo que un token enseñó y construyó. Para Wen son tres cosas que puedes comprobar hoy: un lanzamiento que puso a prueba Solana con más de un millón de billeteras, un poema convertido en NFT fraccionado y el <a1>Wen New Standard (WNS)</a1>, una forma abierta de crear NFT sobre Token-2022. <a2>Wen Open Lab</a2> lleva ese estándar a herramientas de todos los días, todas gratuitas y probadas en abierto: recibos de garantía, regalías y facturas, una <a3>caja que solo recibe</a3> que cualquier tienda abre en el navegador, un <a4>checkout para tiendas en línea</a4> y una <a5>skill de IA</a5> que lo instala con seguridad. Eso es lo que guarda el almanaque.
+96d1adf4c4|Lee la historia de la utilidad
+ceb74fd9ca|Abrir Wen Open Lab
+49e13ea009|Lo que no encontrarás aquí
+a9fc5d2e53|Ni precios, ni pronósticos, ni promociones de exchanges, ni «el próximo 100x». Eso envejece en días. El almanaque registra lo que pasó, cómo funciona la tecnología y cómo comprobarlo tú mismo.
+69865e2eb4|<b>Wen, un almanaque comunitario.</b> No es el sitio oficial de Wen; el oficial es <a1>wenwencoin.com</a1>. La crónica completa, mantenida y con fuentes vive en <a2>wen-watt.github.io</a2>.
+0bae4d704f|<a1>Todas las fuentes</a1> <a2>Wen Open Lab</a2> <a3>Cuestionario</a3> <a4>Privacidad</a4>
+03f18153f0|Comunidad: <a1>X</a1> <a2>YouTube</a2> <a3>TikTok</a3> <a4>Pinterest</a4>
+b911b46860|Contenido educativo, no es asesoramiento financiero. Sin precios ni pronósticos. © 2024–2026 comunidad Wen.
+a4c695ed04|Wen: un poema, un gato y un estándar abierto en Solana
+3d4aab0a94|Wen, el meme del gato de Solana que nació como poema y creció hasta ser un estándar abierto de NFT. La puerta de entrada animada al Almanaque Wen: historia, memes, sin precios.
+2e579a3879|Logo del gato Wen, el almanaque comunitario en Solana
+3db5286e27|Logo del gato Wen
+aeaa62edd0|Arte del gato Wen para Qué es Wen
+f5e8fce29d|Arte del gato Wen para La crónica
+693c29f7cb|Arte del gato Wen para Tecnología
+093146b3b2|Arte del gato Wen para Medios y cultura
+72aa9a53d2|Arte del gato Wen para Enlaces
+e35d45ad21|Wen Counter: una caja gratuita para cada tienda
+7ff5a6dafd|Secciones
+3cd7ce7e1c|Qué es Wen: el poema, el gato y el único token real
+2b83273876|Wen es un token de Solana cuyo suministro es un poema. Meow, cofundador de Jupiter, escribió «A Love Letter to Wen Bros»; se acuñó como NFT y se dividió en un billón de tokens, así que tener WEN es tener un fragmento de ese poema.
+42738d43ad|¿Qué animal es Wen? <a1>La historia de la imagen</a1>
+789f4bbee1|Cuatro hechos que definen a Wen
+b008f12d5f|<b>Un poema como suministro.</b> La primera moneda comunitaria construida sobre un NFT fraccionado.
+5ea9ce686a|<b>Un lanzamiento como prueba.</b> WEN fue el primer token del LFG Launchpad de Jupiter y se repartió por airdrop a más de un millón de billeteras de Solana en enero de 2024; la red se mantuvo en pie.
+b1b57e35e6|<b>Una quema definitiva.</b> Al cerrar el reclamo el 29 de enero de 2024, la asignación no reclamada (más de 271 mil millones de tokens, más del 27 % del suministro) se quemó en la cadena.
+79159dc3f7|<b>Un estándar.</b> WEN está ligado al <a1>Wen New Standard (WNS)</a1>, una forma abierta de crear NFT sobre Token-2022 con regalías que impone el propio token.
+2417fdcbc5|El único WEN real
+ca6566537f|Los nombres y los tickers se pueden copiar; la dirección, no. El único WEN es el mint de Solana <code>WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk</code>. Compruébalo en el <a1>Solana Explorer</a1> antes que nada y lee <a2>la cadena de confianza</a2> para ver qué afirmaciones están verificadas, reportadas o sin verificar.
+c6d796005b|Por qué una palabra y por qué un gato
+9d4d24887f|«Wen» es como se escribe «when» (cuándo) en el mundo cripto: la pregunta impaciente de toda comunidad. En chino, wén (文) significa escritura y cultura, y wèn (问), preguntar. El almanaque guarda la <a1>historia completa de la palabra</a1>. El gato es el guardián del hogar de esta historia: amable, libre de dibujar y de todos.
+1c78f4601f|Lo que Wen regala
+a39725f985|<b>Una caja para cualquier tienda</b>: <a1>Wen Counter</a1> se abre en el navegador, muestra un QR de Solana Pay y nunca toca una clave.
+3307fe6ead|<b>Un checkout para tiendas en línea</b>: el <a1>plugin Wen Counter Pay</a1> para WooCommerce, sin comisión intermedia.
+059417396e|<b>Una instrucción para asistentes de IA</b>: <a1>la skill wen-counter-shop</a1> permite a un asistente añadir ese checkout de forma segura.
+857bf81763|<b>Conocimiento</b>: el <a1>cuestionario</a1>, las <a2>guías paso a paso</a2> y todas las fuentes en una sola página.
+2c966be9a3|<b>Almanaque comunitario.</b> No es el sitio oficial de Wen; el oficial es <a1>wenwencoin.com</a1>. La historia completa, mantenida y con fuentes vive en GitHub: <a2>el Almanaque Wen</a2>. Contenido educativo, no es asesoramiento financiero.
+7d221aae22|<a1>Todas las fuentes</a1> <a2>Wen Open Lab</a2> <a3>Cuestionario</a3> <a4>Privacidad</a4>
+cf87c37387|Qué es Wen: un poema dividido en un billón de tokens, un lanzamiento que puso a prueba Solana, una quema definitiva y el estándar WNS, además del único mint real.
+b61944fc99|El gato Wen, arte de la comunidad
+e83dfd3598|La crónica de Wen: de un poema a un estándar abierto, 2023–2026
+aa1ed3639c|Una crónica breve y fechada de lo que hizo Wen. Cada línea enlaza con la publicación completa y con fuentes del Almanaque Wen.
+018514a3d5|Cronología
+1ba279db47|<b>Finales de 2023</b>: Meow escribe el poema de Wen, «A Love Letter to Wen Bros»; toma forma la idea de una moneda comunitaria basada en un NFT fraccionado.
+f04ab396e2|<b>25 de enero de 2024</b>: se propone <a1>WNS 0.0</a1> en el foro Jupiter Research.
+3e95c46f4a|<b>26 de enero de 2024</b>: WEN se lanza como primer token del LFG Launchpad; el airdrop a más de un millón de billeteras se convierte en <a1>una prueba de carga real para Solana</a1>.
+05d81f883f|<b>29 de enero de 2024</b>: se cierra el reclamo y los tokens no reclamados se queman para siempre.
+50b440bcb0|<b>2025</b>: crece la cultura: <a1>Wen x Bonk</a1>, <a2>Elevate Pictures</a2> (reportado), <a3>la Copa de los Memes</a3>.
+a8826156b8|<b>2025–2026</b>: maduran los rieles más amplios: <a1>BSOL en la NYSE</a1>, <a2>pilotos de tokenización en Corea</a2>, la ley estadounidense de stablecoins.
+97d48676b5|<b>2026</b>: <a1>Wen Open Lab</a1> convierte WNS en modelos gratuitos y comprobables que cualquiera puede ejecutar.
+7e4dc8c555|<b>27 de octubre de 2026</b>: el Lab explica sus modelos en <a1>diez guías en lenguaje sencillo</a1>.
+9439f72e2d|<b>11 de noviembre de 2026</b>: un proceso abierto lee el mint de WEN en mainnet: <a1>SPL Token original, autoridades revocadas</a1>; la comprobación se repite cada semana.
+d7f2d83442|<b>12 de noviembre de 2026</b>: <a1>Wen Counter</a1>, una caja gratuita que solo recibe, se abre para todas las tiendas.
+31e93562a4|<b>24 de noviembre de 2026</b>: la caja llega a las tiendas en línea y a los asistentes de IA: un <a1>checkout para WooCommerce</a1>, una auditoría de usabilidad y la <a2>skill wen-counter-shop</a2>.
+4512d00516|¿Cuántos WEN recibió cada billetera elegible? <a1>La historia de la imagen</a1>
+0b56100506|Cómo se lleva la crónica
+d46bc0fdef|Cada publicación del almanaque lleva una insignia (publicación histórica, publicación de mercado reescrita o guía del almanaque) y un recuadro de fuentes. Todos los enlaces externos están en una sola página, <a1>Fuentes y verificación</a1>, para que puedas abrir, comparar y decidir por ti mismo. Lo que no pudimos confirmar se marca como «reportado» y remite a la cuenta oficial de X como fuente primaria.
+8f2ab4c77e|Adónde fueron las publicaciones antiguas
+0d672f484e|Este blog tenía más de sesenta publicaciones. Se reescribieron, unieron y comprobaron en el almanaque: sin precios ni pronósticos, con más tecnología y utilidad. Míralas todas en la <a1>navegación del almanaque</a1>.
+2b991ec8dc|La crónica de Wen de 2023 a 2026: el poema, WNS 0.0, el airdrop a un millón de billeteras, la quema, la cultura y Wen Open Lab, cada línea con su fuente.
+cb5c59fc9c|Arte comunitario de una billetera Wen
+1bb4e95dd2|Token-2022, WNS y Wen Open Lab: lo que Wen construyó
+fccb8785b2|Token-2022 es el programa de tokens de Solana con extensiones. WNS, el Wen New Standard, lo usa para que los NFT sean ligeros, abiertos y justos con los creadores. Wen Open Lab convierte ambos en herramientas gratuitas que puedes probar: modelos, una caja para tiendas y una skill de IA.
+19e2a4bf5f|Token-2022 en un minuto
+538a56ba85|Un token en Solana es un mint más unas cuentas. Token-2022 permite que el mint lleve reglas extra, las extensiones, escritas en el propio token y no en cada aplicación que lo rodea:
+e0f81e53d2|<b>Metadata</b>: nombre, símbolo e imagen guardados con el mint.
+473eb72a8a|<b>Transfer Hook</b>: un programa se ejecuta en cada transferencia; WNS lo usa para imponer regalías.
+858a7631ea|<b>Non-Transferable</b>: un token ligado a su dueño, usado en los recibos de garantía del Lab.
+3012b423ce|<b>Permanent Delegate</b>: un emisor puede mover o quemar tokens; es potente, así que comprueba siempre quién lo tiene.
+32d4f99989|<b>Transfer Fee</b> e <b>Interest-Bearing</b>: comisiones y rendimientos definidos a nivel del token.
+64d81aa937|WNS: el Wen New Standard
+cb97f6226e|Propuesto el 25 de enero de 2024, WNS describe los NFT como mints de Token-2022 con metadatos y punteros de grupo, más un transfer hook que impone las regalías de los creadores. El código es abierto en la <a1>Wen Program Library</a1>. Lee las guías del almanaque: <a2>Token-2022 y WNS</a2> y <a3>SPL, Token-2022 y WNS explicados</a3>.
+d011b71862|¿Qué significa WNS? <a1>La historia de la imagen</a1>
+146b3fcd30|Wen Open Lab: de modelos a herramientas que funcionan
+13eeb64288|<a1>Recibos y tarjetas de garantía</a1>: una prueba de compra que no se puede revender.
+545b94423a|<a1>Regalías para creadores</a1>: las paga el token en cada venta.
+b51a1d582a|<a1>Facturas B2B</a1>: facturas con reglas que impone el token.
+64ff1cc557|<a1>Un puente de pagos</a1>: Solana Pay junto a la adquirencia con tarjeta.
+11e0cd7084|<a1>Un simulador de pagos</a1>: comisiones de tarjeta frente a comisiones en cadena, lado a lado.
+0cb96a1be0|<a1>Devnet</a1>: repítelo todo tú mismo con monedas de prueba gratuitas.
+9ab3f6bf34|<a1>Wen Counter</a1>: una caja en una página web sobre Solana Pay; solo recibe, no cobra comisión por venta y la respaldan 57 comprobaciones que cualquiera puede repetir.
+c279860109|<a1>Tiendas: plugin y skill</a1>: la misma caja como checkout de WooCommerce, más una skill de IA que audita una tienda y la configura con el consentimiento del dueño.
+df080ce316|Todo el Lab también se lee en <a1>italiano</a1>, <a2>chino</a2> y <a3>coreano</a3>. Para asistentes de IA hay un centro de <a4>Wen Skills</a4>: un solo comando, <code>npx skills add wen-watt/skills</code>.
+79706983a7|Regla de seguridad del Lab: ejecuta los modelos en devnet con una billetera desechable; nunca pegues una clave privada en ningún sitio.
+b429e0fccd|Extensiones de Token-2022, el Wen New Standard para NFT y los modelos gratuitos de Wen Open Lab: recibos, regalías, facturas y pagos que puedes probar.
+d3b7c47430|Arte comunitario de WNS y Token-2022
+47102d1b7c|Medios y cultura de Wen: imágenes, vídeos y cuentos de gatos
+53235755ed|Wen es cultura antes que token: un poema, un gato, canciones, fútbol y cientos de imágenes hechas por la comunidad. Cada imagen de abajo abre una historia: el arte y un dato comprobado.
+b32d4f913a|Las 250 historias de imágenes
+d3a7a40862|El archivo multimedia completo
+16c9995854|¿Qué animal es Wen?
+5135f172e1|¿Qué significa 文 (wén) en chino?
+bcf862effd|¿Cómo se llamaba el torneo de fútbol de memecoins del 19 de noviembre de 2025 con un equipo Wen?
+6bc23dc8fe|¿Cuántos tokens WEN recibió cada billetera elegible?
+f36a758219|¿Sobre qué se basa WEN, que se llama a sí mismo la primera moneda comunitaria?
+d3faf83203|¿Qué pico de carga tuvo Phantom durante el airdrop de WEN?
+791c2dfc38|¿Qué significa WNS?
+d69836aa59|¿Con qué licencia se publica la Wen Program Library?
+6d6da1644d|¿Qué extensión permite a un emisor mover o quemar tokens de cualquier cuenta?
+22ca9008e8|¿Qué socios se unieron al memorando de Shinhan además de la Solana Foundation?
+f8c5d50bcc|¿En qué puso la Copa de los Memes a las comunidades de memecoins?
+77b488e47f|¿Qué cadena de hamburguesas también cotiza con el ticker WEN?
+ee957911e9|¿Adónde fue lo recaudado con el peluche Wen x Bonk?
+cab04ae4fa|¿Qué estudio se asoció con Wen en 2025 para hacer animación, cómics y productos?
+01c262dc1b|¿Qué debes buscar para encontrar el token WEN real?
+83a7784272|¿Qué fabricante de juguetes hizo los peluches de Wen, según la lista de la comunidad?
+1072fee826|¿Qué función prevista de WNS permite pagar regalías en cada transferencia?
+11f5ced748|¿Qué ley estadounidense sobre stablecoins de pago se firmó el 18 de julio de 2025?
+0276031089|¿Por qué lanzó Jupiter WEN antes que su propio token?
+9c568eefce|¿Cuántos tokens WEN quedan aproximadamente tras la quema de enero de 2024?
+62f01c2738|¿Dónde se ejecutan los modelos de Wen Open Lab?
+2e5199c708|¿A qué rey antiguo se atribuye la ordenación de los hexagramas del I Ching?
+fcc21c3c12|En Gran Bretaña e Irlanda, ¿qué suele significar un gato negro en tu puerta?
+e8b1b15a17|En el cuento ruso El gato y la zorra, ¿qué nombre se da el gato a sí mismo?
+56b71e89fb|Vídeos
+077d0a35a7|Los vídeos de la comunidad están en <a1>YouTube</a1> y <a2>TikTok</a2>. Uno corto y útil primero: <a3>cómo encontrar el ID de contrato real</a3>. El almanaque mantiene una <a4>guía de vídeos</a4> tranquila: cultura y explicaciones, sin hablar de precios.
+9c652be4ee|Cuentos de gatos
+8a1a10f4a5|En todo el almanaque, las publicaciones traen breves cuentos populares sobre el gato como guardián del hogar y portador de suerte: del maneki-neko japonés que llama con la pata a Kot Bayun de los cuentos rusos, Bastet de Egipto y Larry, cazador de ratones jefe del número 10 de Downing Street. La vieja creencia es sencilla: deja que el gato entre primero en la casa nueva.
+0b081a8ef4|Libre de usar
+18bd91d3d7|El arte de la comunidad se comparte para reutilizarlo citando la fuente; las reglas están en la <a1>página de material comunitario</a1> y las carpetas abiertas aparecen en la pestaña <a2>Comunidad y biblioteca</a2>.
+a884cb307a|Memes y cultura del gato Wen: imágenes de la comunidad que abren un dato comprobado, vídeos, cuentos de gatos del folclore y carpetas abiertas que cualquiera puede reutilizar.
+ba0d28729c|Enlaces de Wen: primero las fuentes oficiales, luego la comunidad
+6c34ff4b32|Antes de cualquier enlace, la regla: el único WEN es el mint de Solana <code>WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk</code>. Compara la dirección, no el nombre.
+ac60fda709|Oficial
+bea4d88490|<a1>wenwencoin.com</a1>: el sitio oficial con el contrato.
+b72c973a51|<a1>docs.wenwencoin.com</a1>: documentación oficial.
+5f00e1610a|<a1>x.com/wenwencoin</a1>: el canal principal más activo; los anuncios y las noticias de socios empiezan aquí.
+359c6eee6f|<a1>Solana Explorer</a1>: suministro y autoridades del mint real.
+bfd58ee3a2|Comunidad
+713500c07c|La comunidad Wen en X
+1488068579|<a1>YouTube</a1> · <a2>TikTok</a2> · <a3>Pinterest</a3>
+88364b8be1|<a1>IQ.wiki: Wen</a1>: la entrada de la wiki.
+86bac2da9a|Herramientas abiertas de la comunidad
+45489f5719|<a1>Wen Open Lab</a1>: modelos gratuitos y la caja Wen Counter, también en <a2>Italiano</a2>, <a3>中文</a3> y <a4>한국어</a4>.
+41f29d3446|<a1>github.com/wen-watt/skills</a1> y <a2>skills.sh</a2>: la skill wen-counter-shop para asistentes de IA.
+c6c7de71b1|<a1>github.com/wen-watt/wen-watt.github.io</a1>: todo el almanaque, el código abierto y cada comprobación.
+2a6edfdd5d|Todas las fuentes en un solo lugar
+809d7e0caa|El almanaque no pone enlaces externos dentro de sus artículos. Todos (oficiales, de la comunidad, para desarrolladores y de noticias) son tarjetas en <a1>Fuentes y verificación</a1>, cada una con la dirección completa y la página que la cita. Qué tan seguros estamos de cada afirmación está en la <a2>cadena de confianza</a2>.
+59da7eb613|Fuentes oficiales
+2b1532248c|Comunidad y biblioteca
+d3b13d04b1|Compruébalo tú mismo en tres pasos
+02f2cea1aa|Copia la dirección del mint desde wenwencoin.com o el perfil oficial de X.
+afaea1a914|Ábrela en el Solana Explorer y compárala carácter por carácter.
+34741b6bc3|Ignora a quien te envíe otra dirección, un chat de «soporte» o te pida una clave privada.
+3d2ffaadd8|Primero las fuentes oficiales de Wen, luego la comunidad: el único mint real, el sitio oficial, la documentación y X, los canales de la comunidad y todas las fuentes en un solo lugar.
+faq_q|¿Qué es Wen (WEN)?
+faq_a|Wen (WEN) es un token comunitario de Solana cuyo suministro es un poema: una carta de amor de Meow, cofundador de Jupiter, acuñada como NFT con el Wen New Standard (WNS) y dividida en un billón de tokens. En enero de 2024 se repartió por airdrop a más de un millón de billeteras como prueba real antes del token propio de Jupiter. El único WEN real es el mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk. A su alrededor, Wen Open Lab ofrece herramientas gratuitas: una caja que solo recibe, un checkout para tiendas y una skill de IA.
+langs|Léelo en tu idioma
+trnote|Traducido del inglés por la comunidad Wen con ayuda de IA. La página en inglés es la referencia.
