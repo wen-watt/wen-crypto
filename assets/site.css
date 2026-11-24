@@ -84,7 +84,8 @@ code{font:.9em/1.4 ui-monospace,Menlo,monospace;background:var(--deep);padding:.
 .d2{grid-column:span 3;grid-row:span 1}.d2 a{clip-path:polygon(0 0,100% 0,100% 100%,3% 100%)}
 .d3{grid-column:span 4;grid-row:span 1}
 .d4{grid-column:span 2;grid-row:span 1}
-@media (max-width:700px){.panels{grid-template-columns:1fr;grid-auto-rows:140px}.d0,.d1,.d2,.d3,.d4{grid-column:auto;grid-row:auto}.d0 a,.d1 a,.d2 a{clip-path:none}}
+.d5{grid-column:span 6;grid-row:span 1}
+@media (max-width:700px){.panels{grid-template-columns:1fr;grid-auto-rows:140px}.d0,.d1,.d2,.d3,.d4,.d5{grid-column:auto;grid-row:auto}.d0 a,.d1 a,.d2 a{clip-path:none}}
 
 /* quiz */
 .play{padding:clamp(40px,6vw,72px) var(--gut);max-width:1180px;margin:0 auto;border-top:1px solid var(--line)}
