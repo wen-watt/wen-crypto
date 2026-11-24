@@ -20,7 +20,7 @@ SECTIONS = [
     ('wen-coin-video/', '929da5be7b', 'Media and culture'),
     ('links-wen-cat/', '014bcd654c', 'Links'),
 ]
-EXTRA_EN = ['privacy-policy-cookie-policy/', 'ai/']
+EXTRA_EN = ['privacy-policy-cookie-policy/', 'ai/', 'meow/']
 LANGS = [l for l in build.LANGS if os.path.exists(f'{build.W}/tr/{l[0]}.txt')]
 
 
@@ -78,6 +78,10 @@ def llms():
         w(f'- [{t}]({BASE}{p}): {d}')
     t, d = meta(EXTRA_EN[0])
     w(f'- [{t}]({BASE}{EXTRA_EN[0]}): {d}')
+    w('')
+    w('## Cat language: Meow (experimental)')
+    w('')
+    w(f'[Meow]({BASE}meow/): the home page in cat language (rising and falling meows, trills, purrs, hisses, slow blinks), with a decoder based on published cat-vocalization and facial-expression research and optional human subtitles. A language still being studied; a playful page, not a scientific translation.')
     w('')
     w('## Machine language: Wen Loop')
     w('')

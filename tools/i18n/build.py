@@ -46,6 +46,7 @@ def hreflang_block(p):
 def switcher(p,cur):
     items=[('en','English',page_url(p))]+[(l[0],l[1],page_url(p,l[0])) for l in DONE]
     lis=''.join(f'<a href="{u}" hreflang="{c}" lang="{c}"'+(' aria-current="true"' if c==cur else '')+f'>{n}</a> ' for c,n,u in items)
+    lis+='<a href="https://wen-crypto.com/meow/" class="meow-link"'+(' aria-current="true"' if cur=='meow' else '')+'>=^.^= Meow</a> '
     lis+=f'<a href="https://wen-crypto.com/ai/#{AI_SLUG[p]}" class="loop-link"'+(' aria-current="true"' if cur=='ai' else '')+'>{ } Machine</a>'
     return f'<nav class="langs" aria-label="Languages">{lis.strip()}</nav>'
 MISS=set()

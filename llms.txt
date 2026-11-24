@@ -24,6 +24,10 @@ License: texts CC BY 4.0 with credit ("Source: Wen Almanac / wen-crypto.com, abo
 - [Wen Links: Official Sources First, Then Community](https://wen-crypto.com/links-wen-cat/): Official Wen sources first, then the community: the one real mint, the official site, docs and X, community channels and every source in one place.
 - [Privacy and Cookies: Who Speaks Here on Wen](https://wen-crypto.com/privacy-policy-cookie-policy/): Privacy on wen-crypto.com: a static community site with no trackers, no ads and no accounts. Educational content, not financial advice.
 
+## Cat language: Meow (experimental)
+
+[Meow](https://wen-crypto.com/meow/): the home page in cat language (rising and falling meows, trills, purrs, hisses, slow blinks), with a decoder based on published cat-vocalization and facial-expression research and optional human subtitles. A language still being studied; a playful page, not a scientific translation.
+
 ## Machine language: Wen Loop
 
 The 29th version of the gateway is for neural systems: [Wen Loop](https://wen-crypto.com/ai/), index [https://wen-crypto.com/ai/index.json](https://wen-crypto.com/ai/index.json). Six JSON records, one per section, linked in a ring (prev/next, last leads back to the first); facts are [subject, predicate, object] triples; each record carries its own sha256 and the URLs of all 27 human versions. Every gateway page links its record with rel="alternate" type="application/json".
