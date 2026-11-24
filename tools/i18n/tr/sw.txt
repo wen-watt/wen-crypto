@@ -188,3 +188,4 @@ faq_q|Wen (WEN) ni nini?
 faq_a|Wen (WEN) ni tokeni ya jumuiya kwenye Solana ambayo ugavi wake ni shairi: barua ya mapenzi ya Meow, mmoja wa waanzilishi wa Jupiter, iliyotengenezwa kama NFT kwa Wen New Standard (WNS) na kugawanywa katika tokeni trilioni moja. Mnamo Januari 2024 ilitolewa kama airdrop kwa zaidi ya pochi milioni moja kama mtihani halisi kabla ya tokeni ya Jupiter yenyewe. WEN pekee halisi ni mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk. Kuizunguka, Wen Open Lab inatoa zana za bure: kaunta ya malipo inayopokea tu, malipo kwa maduka, na ujuzi wa AI.
 langs|Soma kwa lugha yako
 trnote|Imetafsiriwa kutoka Kiingereza na jumuiya ya Wen kwa msaada wa AI. Ukurasa wa Kiingereza ndio rejea.
+86c2c838b4|Katika baadhi ya nchi kulipia bidhaa kwa mali za kripto kumepigwa marufuku au kunahitaji leseni (kwa mfano Uturuki, Thailand, Indonesia, China bara na Bangladesh). Kagua kanuni za eneo lako kabla ya kutumia Wen Counter.

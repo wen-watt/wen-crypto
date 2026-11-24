@@ -13,6 +13,7 @@
  "translations": {
   "en": "https://wen-crypto.com/links-wen-cat/",
   "zh-Hans": "https://wen-crypto.com/zh/links-wen-cat/",
+  "zh-Hant": "https://wen-crypto.com/zh-hant/links-wen-cat/",
   "hi": "https://wen-crypto.com/hi/links-wen-cat/",
   "es": "https://wen-crypto.com/es/links-wen-cat/",
   "ar": "https://wen-crypto.com/ar/links-wen-cat/",
@@ -20,7 +21,6 @@
   "bn": "https://wen-crypto.com/bn/links-wen-cat/",
   "pt": "https://wen-crypto.com/pt/links-wen-cat/",
   "id": "https://wen-crypto.com/id/links-wen-cat/",
-  "ur": "https://wen-crypto.com/ur/links-wen-cat/",
   "de": "https://wen-crypto.com/de/links-wen-cat/",
   "ja": "https://wen-crypto.com/ja/links-wen-cat/",
   "mr": "https://wen-crypto.com/mr/links-wen-cat/",
@@ -32,7 +32,6 @@
   "sw": "https://wen-crypto.com/sw/links-wen-cat/",
   "tl": "https://wen-crypto.com/tl/links-wen-cat/",
   "ta": "https://wen-crypto.com/ta/links-wen-cat/",
-  "fa": "https://wen-crypto.com/fa/links-wen-cat/",
   "ko": "https://wen-crypto.com/ko/links-wen-cat/",
   "th": "https://wen-crypto.com/th/links-wen-cat/",
   "jv": "https://wen-crypto.com/jv/links-wen-cat/",
@@ -90,5 +89,5 @@
  "reference_language": "en",
  "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
  "not_financial_advice": true,
- "sha256": "98b11698b430826c73994cca8d1a65bf8e5f14ecc06f2bb2a387a66b435eace1"
+ "sha256": "caa87b42423f2e31e30c385904fbca9087a5593ef3637a90ce9f48b8bb06d169"
 }

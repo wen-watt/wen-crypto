@@ -188,3 +188,4 @@ faq_q|Wen (WEN) nedir?
 faq_a|Wen (WEN), arzı bir şiir olan Solana üzerinde bir topluluk tokenidir: Jupiter'in kurucu ortağı Meow'un aşk mektubu, Wen New Standard (WNS) ile NFT olarak basılıp bir trilyon tokene bölündü. Ocak 2024'te, Jupiter'in kendi tokeninden önce gerçek bir sınav olarak bir milyondan fazla cüzdana airdrop edildi. Tek gerçek WEN, WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk mint adresidir. Çevresinde Wen Open Lab ücretsiz araçlar sunar: yalnızca ödeme alan bir kasa, mağazalar için ödeme sayfası ve bir yapay zekâ becerisi.
 langs|Kendi dilinde oku
 trnote|Wen topluluğu tarafından yapay zekâ yardımıyla İngilizceden çevrildi. Başvuru metni İngilizce sayfadır.
+86c2c838b4|Bazı ülkelerde mal ve hizmet bedelini kripto varlıklarla ödemek yasaktır ya da lisans gerektirir (örneğin Türkiye, Tayland, Endonezya, Çin anakarası ve Bangladeş). Wen Counter’ı kullanmadan önce yerel kuralları kontrol edin.

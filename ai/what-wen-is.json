@@ -13,6 +13,7 @@
  "translations": {
   "en": "https://wen-crypto.com/about-wen-token-wen-coin-crypto/",
   "zh-Hans": "https://wen-crypto.com/zh/about-wen-token-wen-coin-crypto/",
+  "zh-Hant": "https://wen-crypto.com/zh-hant/about-wen-token-wen-coin-crypto/",
   "hi": "https://wen-crypto.com/hi/about-wen-token-wen-coin-crypto/",
   "es": "https://wen-crypto.com/es/about-wen-token-wen-coin-crypto/",
   "ar": "https://wen-crypto.com/ar/about-wen-token-wen-coin-crypto/",
@@ -20,7 +21,6 @@
   "bn": "https://wen-crypto.com/bn/about-wen-token-wen-coin-crypto/",
   "pt": "https://wen-crypto.com/pt/about-wen-token-wen-coin-crypto/",
   "id": "https://wen-crypto.com/id/about-wen-token-wen-coin-crypto/",
-  "ur": "https://wen-crypto.com/ur/about-wen-token-wen-coin-crypto/",
   "de": "https://wen-crypto.com/de/about-wen-token-wen-coin-crypto/",
   "ja": "https://wen-crypto.com/ja/about-wen-token-wen-coin-crypto/",
   "mr": "https://wen-crypto.com/mr/about-wen-token-wen-coin-crypto/",
@@ -32,7 +32,6 @@
   "sw": "https://wen-crypto.com/sw/about-wen-token-wen-coin-crypto/",
   "tl": "https://wen-crypto.com/tl/about-wen-token-wen-coin-crypto/",
   "ta": "https://wen-crypto.com/ta/about-wen-token-wen-coin-crypto/",
-  "fa": "https://wen-crypto.com/fa/about-wen-token-wen-coin-crypto/",
   "ko": "https://wen-crypto.com/ko/about-wen-token-wen-coin-crypto/",
   "th": "https://wen-crypto.com/th/about-wen-token-wen-coin-crypto/",
   "jv": "https://wen-crypto.com/jv/about-wen-token-wen-coin-crypto/",
@@ -91,5 +90,5 @@
  "reference_language": "en",
  "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
  "not_financial_advice": true,
- "sha256": "5bf7c5d5bb2e8aae37126b39717ed456791e1e714d8285b28202d14da1eb9569"
+ "sha256": "1500689f47d81474248fa67862b8d5b69e5138afa468e1d3da3094ceaad232c0"
 }

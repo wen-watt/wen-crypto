@@ -5,38 +5,38 @@
  "how_to_read": [
   "each record: id, loop{prev,next,start}, facts[[subject,predicate,object]], translations, sha256",
   "sha256 = sha256 of the record serialized with sort_keys and without the sha256 field",
-  "human languages: en is the reference; 27 translations listed per record"
+  "human languages: en is the reference; 26 translations listed per record"
  ],
  "records": [
   {
    "id": "wen:section/home",
    "url": "https://wen-crypto.com/ai/home.json",
-   "sha256": "c11ac1a3b4d8e03a6d1a152b3019cace72d7b8bf9489c55298c0dff391fb934d"
+   "sha256": "8388aa1a13fb029e4d6fa620295ad5cc71e0dc7b8d0e5fee44caffd9073a5d1a"
   },
   {
    "id": "wen:section/what-wen-is",
    "url": "https://wen-crypto.com/ai/what-wen-is.json",
-   "sha256": "5bf7c5d5bb2e8aae37126b39717ed456791e1e714d8285b28202d14da1eb9569"
+   "sha256": "1500689f47d81474248fa67862b8d5b69e5138afa468e1d3da3094ceaad232c0"
   },
   {
    "id": "wen:section/record",
    "url": "https://wen-crypto.com/ai/record.json",
-   "sha256": "4aa64bf6ebfe924c9bd1f67127ad5f094d1726b2fde5c5f76c269c58e59a8219"
+   "sha256": "89aac599f6ea9f0c3ca788e18627df7fc2d38a7d395b7d1ff5ef48a3f730811f"
   },
   {
    "id": "wen:section/technology",
    "url": "https://wen-crypto.com/ai/technology.json",
-   "sha256": "9618e12fbd613f0f8e9ad7e76a62e9cfc97cd21f51050e9a6a1c862334723ecd"
+   "sha256": "9f116ae39f9baee3de218eb37e64d0fb97f15335b6da022d4d227185458b6468"
   },
   {
    "id": "wen:section/media",
    "url": "https://wen-crypto.com/ai/media.json",
-   "sha256": "cbed137dc24e782990841d523d59fbdc40112ff25969bb6a628bbf8aa94f17db"
+   "sha256": "4fbb271f33dea6263f515d69b57454d2a3ddde0ae78ceb9eff66ee1aaed11866"
   },
   {
    "id": "wen:section/links",
    "url": "https://wen-crypto.com/ai/links.json",
-   "sha256": "98b11698b430826c73994cca8d1a65bf8e5f14ecc06f2bb2a387a66b435eace1"
+   "sha256": "caa87b42423f2e31e30c385904fbca9087a5593ef3637a90ce9f48b8bb06d169"
   }
  ],
  "mint": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",

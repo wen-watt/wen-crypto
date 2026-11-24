@@ -13,6 +13,7 @@
  "translations": {
   "en": "https://wen-crypto.com/token-2022-wns-solana-wen/",
   "zh-Hans": "https://wen-crypto.com/zh/token-2022-wns-solana-wen/",
+  "zh-Hant": "https://wen-crypto.com/zh-hant/token-2022-wns-solana-wen/",
   "hi": "https://wen-crypto.com/hi/token-2022-wns-solana-wen/",
   "es": "https://wen-crypto.com/es/token-2022-wns-solana-wen/",
   "ar": "https://wen-crypto.com/ar/token-2022-wns-solana-wen/",
@@ -20,7 +21,6 @@
   "bn": "https://wen-crypto.com/bn/token-2022-wns-solana-wen/",
   "pt": "https://wen-crypto.com/pt/token-2022-wns-solana-wen/",
   "id": "https://wen-crypto.com/id/token-2022-wns-solana-wen/",
-  "ur": "https://wen-crypto.com/ur/token-2022-wns-solana-wen/",
   "de": "https://wen-crypto.com/de/token-2022-wns-solana-wen/",
   "ja": "https://wen-crypto.com/ja/token-2022-wns-solana-wen/",
   "mr": "https://wen-crypto.com/mr/token-2022-wns-solana-wen/",
@@ -32,7 +32,6 @@
   "sw": "https://wen-crypto.com/sw/token-2022-wns-solana-wen/",
   "tl": "https://wen-crypto.com/tl/token-2022-wns-solana-wen/",
   "ta": "https://wen-crypto.com/ta/token-2022-wns-solana-wen/",
-  "fa": "https://wen-crypto.com/fa/token-2022-wns-solana-wen/",
   "ko": "https://wen-crypto.com/ko/token-2022-wns-solana-wen/",
   "th": "https://wen-crypto.com/th/token-2022-wns-solana-wen/",
   "jv": "https://wen-crypto.com/jv/token-2022-wns-solana-wen/",
@@ -112,5 +111,5 @@
  "reference_language": "en",
  "license": "CC BY 4.0, credit: Wen Almanac / wen-crypto.com, about Wen ($WEN) on Solana",
  "not_financial_advice": true,
- "sha256": "9618e12fbd613f0f8e9ad7e76a62e9cfc97cd21f51050e9a6a1c862334723ecd"
+ "sha256": "9f116ae39f9baee3de218eb37e64d0fb97f15335b6da022d4d227185458b6468"
 }

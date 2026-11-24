@@ -51,10 +51,10 @@ def sitemap():
 def llms():
     L = []
     w = L.append
-    w('# wen-crypto.com: Wen gateway in 28 human languages and one machine language')
+    w(f'# wen-crypto.com: Wen gateway in {len(LANGS)+1} human languages and one machine language')
     w('')
     w('> The front door to Wen, the cat on Solana that began as a poem and grew into an open NFT standard (WNS). '
-      'Six short sections, each in English and 27 other languages, told as history and usefulness: no prices, no forecasts, no exchange links. '
+      f'Six short sections, each in English and {len(LANGS)} other languages, told as history and usefulness: no prices, no forecasts, no exchange links. '
       f'The full, maintained and source-checked record is the Wen Almanac: {ALM}')
     w('')
     w(f'Last updated: {DATE}. Not the official Wen site (official: https://wenwencoin.com/). Educational, not financial advice. '
@@ -83,7 +83,7 @@ def llms():
     w('')
     w(f'The 29th version of the gateway is for neural systems: [Wen Loop]({BASE}ai/), index [{BASE}ai/index.json]({BASE}ai/index.json). '
       'Six JSON records, one per section, linked in a ring (prev/next, last leads back to the first); facts are [subject, predicate, object] triples; '
-      'each record carries its own sha256 and the URLs of all 28 human versions. Every gateway page links its record with rel="alternate" type="application/json".')
+      f'each record carries its own sha256 and the URLs of all {len(LANGS)+1} human versions. Every gateway page links its record with rel="alternate" type="application/json".')
     w('')
     for slug in ['home','what-wen-is','record','technology','media','links']:
         w(f'- {BASE}ai/{slug}.json')
@@ -92,7 +92,7 @@ def llms():
     w('')
     w('Every language has the same six sections at the same paths: /{code}/, /{code}/about-wen-token-wen-coin-crypto/, '
       '/{code}/about/, /{code}/token-2022-wns-solana-wen/, /{code}/wen-coin-video/, /{code}/links-wen-cat/. '
-      'Each page lists all versions with hreflang; dir="rtl" for Arabic, Urdu and Persian.')
+      'Each page lists all versions with hreflang; dir="rtl" for ' + ', '.join(l[1] for l in LANGS if l[4]=='rtl') + '.')
     w('')
     w(f'- English (en, x-default): [{meta("")[0]}]({BASE})')
     for code, name, hl, _, d in LANGS:
@@ -118,7 +118,7 @@ def llms():
     return len(L)
 
 
-ROBOTS = f"""# wen-crypto.com: the Wen gateway in 28 human languages and Wen Loop, a machine language, open to every reader, human or machine.
+ROBOTS = f"""# wen-crypto.com: the Wen gateway in {len(LANGS)+1} human languages and Wen Loop, a machine language, open to every reader, human or machine.
 # Machine-readable map by sections and languages: {BASE}llms.txt
 # Machine language (Wen Loop, linked JSON fact records): {BASE}ai/index.json
 # Full, source-checked record: {ALM} (map: {ALM}llms.txt, facts: {ALM}llms-full.txt)

@@ -188,3 +188,4 @@ faq_q|Was ist Wen (WEN)?
 faq_a|Wen (WEN) ist ein Community-Token auf Solana, dessen Angebot ein Gedicht ist: ein Liebesbrief von Meow, Mitgründer von Jupiter, als NFT mit dem Wen New Standard (WNS) geprägt und in eine Billion Token geteilt. Im Januar 2024 ging er per Airdrop an mehr als eine Million Wallets, als echter Test vor Jupiters eigenem Token. Der einzig echte WEN ist der Mint WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk. Rund um ihn bietet Wen Open Lab kostenlose Werkzeuge: eine Kasse, die nur empfängt, einen Checkout für Shops und einen KI-Skill.
 langs|In deiner Sprache lesen
 trnote|Von der Wen-Community mit Hilfe von KI aus dem Englischen übersetzt. Maßgeblich ist die englische Seite.
+86c2c838b4|In manchen Ländern ist das Bezahlen von Waren mit Kryptowerten verboten oder genehmigungspflichtig (zum Beispiel Türkei, Thailand, Indonesien, Festlandchina und Bangladesch). Prüfe die örtlichen Regeln, bevor du Wen Counter nutzt.
